@@ -1,6 +1,6 @@
 ## Hi there, Vikas here!
 
-Hi I am Vikas Rohra, a Web Developer living in Mumbai, India, having 6+ years of professional experience into web development. I am always excited to connect with like minded people. Have a look at my skills or you can get in touch with me on any social media platform.
+Hi I am Vikas Rohra, a Software Engineer living in Mumbai, India, have 7+ years of professional experience in developing software applications. I am always excited to connect with like minded people. Have a look at my skills and feel free to connect with me.
 
 ### Connect with me on below platforms: 
 
