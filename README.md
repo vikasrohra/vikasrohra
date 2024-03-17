@@ -12,8 +12,6 @@ Hi I am Vikas Rohra, a Software Engineer living in Mumbai, India, have 7+ years 
 
 - [GitHub](https://github.com/vikasrohra)
 
-- [FindCoder](https://www.findcoder.io/u/vikasrohra)
-
 - [Portfolio](https://vikasrohra.com/)
 
 ### Top Skills:
