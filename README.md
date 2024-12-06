@@ -1,4 +1,4 @@
-## Hi there, Vikas here!
+## Hi there!
 
 Hi I am Vikas Rohra, a Software Engineer living in Mumbai, India, have 7+ years of professional experience in developing software applications. I am always excited to connect with like minded people. Have a look at my skills and feel free to connect with me.
 
